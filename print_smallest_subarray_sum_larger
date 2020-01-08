@@ -1,0 +1,56 @@
+import java.io.*;
+import java.util.*;
+
+/*
+ * To execute Java, please define "static void main" on a class
+ * named Solution.
+ *
+ * If you need more classes, simply define them inline.
+ */
+
+class Solution
+{
+    // Returns length of smallest subarray with sum greater than x.
+    // If there is no subarray with given sum, then returns n+1
+    static void smallestSub(int arr[], int len, int target) 
+    {
+        int curSum=0, minLength =len+1, start=0, end =0, mastrSt=0;
+      System.out.println(Arrays.toString(arr));
+      
+      
+      while(end < len){
+        
+        while(curSum <= target && end < len){
+          curSum += arr[end++];
+        }
+        System.out.println(end);
+        System.out.println(start);
+        System.out.println(minLength);
+        System.out.println(len+"_____");
+          
+        while(curSum > target && start < len){
+         if(end-start < minLength){
+          minLength = end-start; 
+           mastrSt = start;
+         }
+          
+          curSum -= arr[start++];
+        }
+        
+      }
+      for(int i=mastrSt; i<mastrSt+minLength; i++)
+      System.out.print(arr[i]+"|");
+      
+    }
+    // Driver program to test above functions
+    public static void main(String[] args)
+    {
+        int arr1[] = {1, 4, 45, 6, 10, 19};
+        int x = 51;
+        //int val =0;
+      smallestSub(arr1, arr1.length, x);
+      
+ 
+        
+    }
+}

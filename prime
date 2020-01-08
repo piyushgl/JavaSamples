@@ -1,0 +1,45 @@
+import java.io.*;
+import java.util.*;
+
+/*
+ * To execute Java, please define "static void main" on a class
+ * named Solution.
+ *
+ * If you need more classes, simply define them inline.
+ */
+
+class Solution
+{
+    // Returns length of smallest subarray with sum greater than x.
+    // If there is no subarray with given sum, then returns n+1
+    static boolean prime(int nbr) 
+    {
+      
+      int i = 2, temp =0;
+      int orig = nbr;
+      while(i< nbr/2){
+        if(nbr%i==0)
+          return false;
+       i++;
+      }
+        
+          
+        
+      
+      return true;
+      
+      
+    }
+    
+    // Driver program to test above functions
+    public static void main(String[] args)
+    {
+       
+        int x = 15;
+        //int val =0;
+      System.out.println(prime(x));
+      
+ 
+        
+    }
+}

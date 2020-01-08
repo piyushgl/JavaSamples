@@ -1,0 +1,45 @@
+import java.io.*;
+import java.util.*;
+
+/*
+ * To execute Java, please define "static void main" on a class
+ * named Solution.
+ *
+ * If you need more classes, simply define them inline.
+ */
+
+class Solution {
+  public static void main(String[] args) {
+    int arr1[] = {1,2,2,3,4,5};
+    int x =5;
+    
+    HashMap<Integer, Integer> hmap = new HashMap<Integer, Integer>();
+
+    //Hashmap<Integer,Integer> hm = new Hashmap<Integer,Integer>();
+    for(int j=0 ; j<arr1.length ; j++){
+      Integer i = hmap.get(arr1[j]);
+    if(i == null) hmap.put(arr1[j], 1);
+    else hmap.put(arr1[j], i + 1);
+      
+    }
+    System.out.println(Collections.singletonList(hmap));
+    recDecompose(hmap, x , x));
+    
+                                          
+  }
+                       
+  static int recDecompose(HashMap<Integer, Integer> hm, int val, int x){
+    if(val==x){
+      System.out.println(val);
+      HashMap<Integer, Integer> hmapNew = new HashMap<Integer, Integer>();
+      Integer i = hmapNew.get(val);
+      hmapNew.put(val, i - 1);
+      
+    }
+    if (val==0)
+      
+    return recDecompose(hmapNew, x-val, x);
+     
+  }
+                       
+}
