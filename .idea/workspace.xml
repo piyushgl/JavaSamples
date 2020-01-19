@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7cb15ce-ff8b-4458-8176-b1ca24bf578c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StringPermutationChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JavaSamples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaSamples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e7cb15ce-ff8b-4458-8176-b1ca24bf578c" name="Default Changelist" comment="StringPermutationChecker">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_smallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/2_smallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Charactercountp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Charactercountp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibbonaci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibbonaci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MoveZerosInFront.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MoveZerosInFront.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PowerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PowerOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrimeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all_posibilities" beforeDir="false" afterPath="$PROJECT_DIR$/src/all_posibilities" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/len_subarray_greater_than_target" beforeDir="false" afterPath="$PROJECT_DIR$/src/len_subarray_greater_than_target" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/min_in_a_rotated_array" beforeDir="false" afterPath="$PROJECT_DIR$/src/min_in_a_rotated_array" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/print_smallest_subarray_sum_larger" beforeDir="false" afterPath="$PROJECT_DIR$/src/print_smallest_subarray_sum_larger" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringPermutationChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringPermutationChecker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,10 +95,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1579472408156" />
-    <state x="344" y="52" key="CommitChangelistDialog2" timestamp="1579472492994">
+    <state x="344" y="52" key="CommitChangelistDialog2" timestamp="1579472628041">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="344" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1579472492994" />
+    <state x="344" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1579472628041" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1579470293532">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
