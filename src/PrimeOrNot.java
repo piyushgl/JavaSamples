@@ -1,6 +1,3 @@
-import java.io.*;
-import java.util.*;
-
 /*
  * to check whether a nbr is prime or not
  */

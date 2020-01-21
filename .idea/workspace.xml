@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e7cb15ce-ff8b-4458-8176-b1ca24bf578c" name="Default Changelist" comment="StringPermutationChecker">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringPermutationChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringPermutationChecker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +33,28 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StringWithUniqueCharacters">
     <configuration name="StringPermutationChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringPermutationChecker" />
       <module name="JavaSamples" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringWithUniqueCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="StringWithUniqueCharacters" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StringPermutationChecker" />
+      <item itemvalue="Application.StringWithUniqueCharacters" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringWithUniqueCharacters" />
         <item itemvalue="Application.StringPermutationChecker" />
       </list>
     </recent_temporary>
@@ -91,22 +102,42 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1579472422412" />
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579472408156">
+    <state x="396" y="115" key="#StringWithUniqueCharacters" timestamp="1579573941917">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1579472408156" />
+    <state x="396" y="115" key="#StringWithUniqueCharacters/0.0.1440.900@0.0.1440.900" timestamp="1579573941917" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579573471019">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1579573471019" />
     <state x="344" y="52" key="CommitChangelistDialog2" timestamp="1579472628041">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="344" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1579472628041" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1579574749534">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579574749534" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1579574749533">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579574749533" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1579574749532">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579574749532" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1579574749533">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579574749533" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1579470293532">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1579470293532" />
-    <state x="386" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1579470165895">
+    <state x="386" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1579575128806">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="386" y="278" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579470165895" />
+    <state x="386" y="278" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579575128806" />
     <state x="419" y="294" key="com.intellij.ide.util.TipDialog/45.23.1395.877@45.23.1395.877" timestamp="1579465695936" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1579471499837">
       <screen x="0" y="0" width="1440" height="900" />
