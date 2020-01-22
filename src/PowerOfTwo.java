@@ -1,5 +1,4 @@
-import java.io.*;
-import java.util.*;
+
 
 /*
  * Program to check whether a number is a power of 2 or not

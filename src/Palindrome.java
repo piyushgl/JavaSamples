@@ -1,5 +1,4 @@
-import java.io.*;
-import java.util.*;
+
 
 /*
  * to check whether its a palindrome or not
