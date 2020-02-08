@@ -11,6 +11,7 @@ class SkewStringComapartor{
         System.out.println("enter str2");
         String str2 = sc.next();
         System.out.println(skewAndCompare(str,str2));
+        sc.close();
 
     }
 
