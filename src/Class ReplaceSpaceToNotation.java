@@ -18,5 +18,6 @@ class ReplaceSpaceToNotation{
             buffer.append((char)a);
         }
         System.out.println("%20 added:"+buffer);
+        sc.close();
     }
 }
